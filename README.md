@@ -1,10 +1,10 @@
 # php-Result-management-system-for-college
 
-# Language Used                   :  PHP
-# Database                              :  My SQL
-# User Interface Design       :  HTML, AJAX,JQUERY,JAVASCRIPT
-# Web Browser                      :  Mozilla, Google Chrome, IE8,OPERA
-# Software for run                               :    WAMP,XAMPP Server
+Language Used                   :  PHP
+ Database                              :  My SQL
+ User Interface Design       :  HTML, AJAX,JQUERY,JAVASCRIPT
+ Web Browser                      :  Mozilla, Google Chrome, IE8,OPERA
+ Software for run                               :    WAMP,XAMPP Server
 
 # Admin Features
 
@@ -25,10 +25,7 @@ Create Database srms
 Import database srms .sql (available inside zip package)
 For User
 Open Your browser put inside browser “http://localhost/srms”
-Details of student  —
-Student name– Anuj Kumar
-Roll id–10861
-Student Class: Fourth(C)
+Details of student
 For Admin Panel
 Open Your browser put inside browser “http://localhost/srms”
 Login Details for admin :
